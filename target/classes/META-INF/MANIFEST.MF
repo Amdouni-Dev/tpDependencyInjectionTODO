@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: tpDependencyInjectionTODO
+Implementation-Version: 1.0
+Built-By: ASUS
+Implementation-Vendor-Id: com.esprit.injection
+Build-Jdk: 1.8.0_60
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/tpDependencyInjectionTODO
+Created-By: Maven Integration for Eclipse
+
